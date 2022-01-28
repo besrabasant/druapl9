@@ -1,0 +1,9 @@
+keys
+vendor
+web/sites/default
+web/core
+web/libraries
+web/modules/contrib
+web/profiles/contrib
+web/themes/contrib
+drush/Commands/contrib
